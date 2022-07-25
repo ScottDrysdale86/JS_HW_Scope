@@ -171,7 +171,7 @@ const declareWeapon = function () {
 changeScenario();
 const verdict = declareWeapon();
 console.log(verdict);
-output is
+// output is
 // candlestick
 
 // //   #### Episode 9
